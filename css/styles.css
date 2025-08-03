@@ -10,6 +10,12 @@ body{
   font-family: Arial;
 }
 
+.sneaky-text {
+  color: green;
+  font: 10.5em 'Montserrat';
+  text-align: center;
+}
+
 svg {
     display: block;
     font: 10.5em 'Montserrat';
